@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Melvin! 👋
+### AWS Cloud & DevSecOps Engineer
 
-<!--
-**MelvinOkwara/MelvinOkwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building secure, automated cloud infrastructures. 
 
-Here are some ideas to get you started:
+## 🚀 Recent Project
+- **Automated DevSecOps Pipeline:** Built a CI/CD pipeline using GitHub Actions, Docker, and Trivy to deploy a secure application to Amazon EKS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 My Resume
+- [Click here to view my CV (PDF)](https://github.com/MelvinOkwara/MelvinOkwara/blob/main/CV_Melvin_Okwara.pdf)
+
+## 🛠 Tech Stack
+- **Cloud:** AWS (EKS, ECR, IAM, VPC)
+- **DevOps:** GitHub Actions, Docker, Kubernetes (kubectl, eksctl)
+- **Security:** Trivy (Container Scanning)
