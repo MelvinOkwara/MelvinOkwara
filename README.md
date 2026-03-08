@@ -7,7 +7,7 @@ I specialize in building secure, automated cloud infrastructures.
 - **Automated DevSecOps Pipeline:** Built a CI/CD pipeline using GitHub Actions, Docker, and Trivy to deploy a secure application to Amazon EKS.
 
 ## 📄 My Resume
-- [📄 Click here to view my CV (PDF)](MELVINOKWARA.pdf)
+- [📄 Click here to view my CV (PDF)](Melvin%20Okwara.pdf)
 ## 🛠 Tech Stack
 - **Cloud:** AWS (EKS, ECR, IAM, VPC)
 - **DevOps:** GitHub Actions, Docker, Kubernetes (kubectl, eksctl)
