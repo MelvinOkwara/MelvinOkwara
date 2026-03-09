@@ -4,7 +4,7 @@
 I specialize in building secure, automated cloud infrastructures and high-availability CI/CD pipelines.
 
 ## 🚀 Recent Project
-- **[Automated DevSecOps Pipeline](https://github.com/MelvinOkwara/DevSecOps-Pipeline):** Built a CI/CD pipeline using GitHub Actions, Docker, and Trivy to deploy a secure application to Amazon EKS.
+- **[Automated DevSecOps Pipeline](https://github.com/MelvinOkwara/GitOps-CICD-Pipeline):** Built a CI/CD pipeline using GitHub Actions, Docker, and Trivy to deploy a secure application to Amazon EKS.
 
 ## 📄 My Resume
 - [📄 Click here to view my CV (PDF)](CV.pdf)
